@@ -4,6 +4,7 @@ distlib
 Django
 django-crispy-forms
 django-environ
+dj-database-url
 EasyProcess
 entrypoint2
 filelock
